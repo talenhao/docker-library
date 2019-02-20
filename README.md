@@ -8,8 +8,7 @@
 
 目前支持版本：
 
-* Kubernetes v1.10.3
-* Kubernetes v1.11.0
+* Kubernetes v1.13.1
 
 
 ## 查看gcr.io官方镜像
